@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=VfRGyfw7kGY&list=PLC3y8-rFHvwiaOAuTtVXittwybYIor
 
 This is the React version of the [Node alone RTK project](https://github.com/hkvongit/node__redux-toolkit__demo). Please check this github link to get more details about the RTK library.
 
-RTK - React Tool Kit
+RTK - Redux Tool Kit
 
 ## Project configuration
 
