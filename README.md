@@ -12,3 +12,10 @@ RTK - Redux Tool Kit
 ## Project configuration
 
 This project uses `Vite`. For more details on vite visit [here](https://vitejs.dev/guide/)
+
+# Awesome resources
+1. 😍 **Reference project for RTK query**
+   - [Github link](https://github.com/gitdagray/react_redux_toolkit/blob/HEAD/07_lesson/src/features/posts/postsSlice.js)
+   - [Youtube videor](https://www.youtube.com/watch?v=9P2IUx13MZI)
+
+   
