@@ -17,5 +17,6 @@ This project uses `Vite`. For more details on vite visit [here](https://vitejs.d
 1. 😍 **Reference project for RTK query**
    - [Github link](https://github.com/gitdagray/react_redux_toolkit/blob/HEAD/07_lesson/src/features/posts/postsSlice.js)
    - [Youtube video](https://www.youtube.com/watch?v=9P2IUx13MZI)
+   - [Complete Youtube playlist](https://www.youtube.com/watch?v=u3KlatzB7GM&list=PL0Zuz27SZ-6M1J5I1w2-uZx36Qp6qhjKo)
 
    
